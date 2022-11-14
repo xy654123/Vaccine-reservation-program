@@ -1,4 +1,4 @@
-# industrial-engineer
+# Vaccine reservation program
 
 # 산업기사 문제 풀이과정1)
 1)<br>
