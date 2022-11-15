@@ -31,3 +31,20 @@ join테이블의있는 박스의 값을 다 넣은 후 등록버튼을 누른다
 등록버튼을 누른 후에는 index페이지로 돌아가면서 데이터가 등록된다.<br>
 ![image](https://user-images.githubusercontent.com/96267331/201813777-4e3b154f-e7b5-44d6-994a-58c75434f47e.png)<br>
 코드를 보면 박스에있는 값들을 형태의 맞게 sql문을 통해 DB테이블의 값을넣어주며 업데이트해준다.<br>
+member_serch.jsp 화면
+![image](https://user-images.githubusercontent.com/96267331/201845709-30648112-7058-43b8-8b96-ad55f82d1732.png)<br>
+![image](https://user-images.githubusercontent.com/96267331/201846324-fc9a4066-56d4-4ac8-85df-31c0e7e9241c.png)<br>
+유효성 검사기능도있다<br>
+![image](https://user-images.githubusercontent.com/96267331/201846494-3c5aeb99-d2d9-4ad7-bf20-86cf2cc97dc8.png)<br>
+만약 정보가있는 예약번호를 입력했을경우<br>
+![image](https://user-images.githubusercontent.com/96267331/201845907-24423328-7a50-434d-be56-5bded45722d7.png)<br>
+그 예약번호의 해당되는 정보들을 출력해주며 만약 없는 예약번호를 입력했을경우에는<br>
+![image](https://user-images.githubusercontent.com/96267331/201846095-ee4c8ac2-737a-4f20-b48f-29304fab7eba.png)<br>
+없는번호라고 출력해준다.
+![image](https://user-images.githubusercontent.com/96267331/201846851-30898672-e2c2-4b74-a2d5-c5f08ed085ce.png)<br>
+코드를 보면 sql문이 다양한 테이블에서 값을 가져와 값을 변화시켜주면서 출력해 <br>
+![image](https://user-images.githubusercontent.com/96267331/201847050-f42e291e-8c9e-4b46-b1cb-52e0309cffed.png)<br>
+
+
+
+
