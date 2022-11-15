@@ -30,4 +30,4 @@ join테이블의있는 박스의 값을 다 넣은 후 등록버튼을 누른다
 ![image](https://user-images.githubusercontent.com/96267331/201813745-a987d47f-fbae-401f-b885-596e9c3687f3.png)<br>
 등록버튼을 누른 후에는 index페이지로 돌아가면서 데이터가 등록된다.<br>
 ![image](https://user-images.githubusercontent.com/96267331/201813777-4e3b154f-e7b5-44d6-994a-58c75434f47e.png)<br>
-코드를 보면 박스에있는 값들을 형태의 맞게 불러들여 DB테이블의 sql문을 통해 업데이트해준다.<br>
+코드를 보면 박스에있는 값들을 형태의 맞게 sql문을 통해 DB테이블의 값을넣어주며 업데이트해준다.<br>
